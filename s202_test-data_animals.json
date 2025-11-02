@@ -34,5 +34,11 @@
     "scientificName": "Balaenoptera musculus",
     "habitat": "Open Oceans Worldwide, except the Arctic",
     "description": "The largest animal ever known to have existed, feeding primarily on tiny krill."
+  },
+  {
+    "commonName": "Hummingbird",
+    "scientificName": "Trochilidae",
+    "habitat": "Tropical and Temperate climates, Americas, Tierra Del Fuego to southern Alaska",
+    "description": "Small birds known for the ability to flutter their wings rapidly, flying backwards and hovering in place, and feeding on nectar from flowers."
   }
 ]
