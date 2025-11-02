@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Blue Whale",
+    "scientificName": "Balaenoptera musculus",
+    "habitat": "Open Oceans Worldwide, except the Arctic",
+    "description": "The largest animal ever known to have existed, feeding primarily on tiny krill."
   }
 ]
